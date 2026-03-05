@@ -28,3 +28,18 @@ p{
     background-attachment: fixed;
     background-color: rgb(230, 133, 133);
 }
+
+.titulo-secao{
+    background-color: rgb(130, 140, 150);
+    text-indent: 15px;
+    font-weight: normal;
+}
+.texto-destaque{
+    background-color:blanchedalmond;
+    font-weight: bold;
+    text-decoration: underline;
+}
+#rodape-info{
+    background-color: blue;
+    color: black;
+}
