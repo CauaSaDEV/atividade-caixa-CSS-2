@@ -7,16 +7,13 @@ h3{
 }
 
 .Caixa{
-    background-color: #3498db;
-    display: ;
+    background-color:#2ecc71;
     width: 200px;
-    height: 150px;
-    border: 2px solid white;
+    height: 180px;
+    border: 3px #27ae60 solid;   
     text-align: center;
-    padding: 20px 20px;
-    font-weight: bold;
-    font-size:x-large;
+    padding: 25px 25px;    
     color: white;
     margin: 0 auto;
-
+    border-radius: 10px;
 }
